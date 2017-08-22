@@ -14,6 +14,3 @@ then
 fi
 
 cp -f other/file_contexts out/target_files/META/
-
-
-
