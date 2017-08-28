@@ -34,7 +34,7 @@ PORT_PRODUCT = m8qlul
 # The certificate for release version
 local-certificate-dir := security
 
-local-target-bit := 32
+local-target-bit := 64
 
 # To include the local targets before and after zip the final ZIP file, 
 # and the local-targets should:
